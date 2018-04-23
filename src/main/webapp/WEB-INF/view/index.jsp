@@ -3,16 +3,11 @@
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
 <!DOCTYPE html>
 <!-- Template by Quackit.com -->
-<html lang="en">
-	
+<<html>
 <body>
-<p>The result is : </p>
+<h1>My first PHP page</h1>
 <?php
-$str = "Do you think PHP is a good scripting language?";
-echo strlen($str);
-echo "<br/>"
-echo strpos($str, "PHP");
+echo "Hello World!";
 ?>
 </body>
-
 </html>
