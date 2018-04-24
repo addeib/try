@@ -14,6 +14,7 @@
 			<div>
 				Welcome to our simple java application
 				<br>You are welcome<br/>
+				<br>Hello<br/>
 			</div>		
 </div><!--/container-fluid-->
 	
