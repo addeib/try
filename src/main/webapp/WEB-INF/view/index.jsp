@@ -12,7 +12,7 @@
 <body>
 <div class="container-fluid">
 			<div>
-				Welcome to our simple java application
+				<b>Welcome to our simple java application</b>
 				<br>You are welcome<br/>
 				<br>Hello Brother<br/>
 				
